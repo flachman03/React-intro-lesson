@@ -3,6 +3,7 @@ React Intro Lesson
 1. npx create-react-app
   a. What does this do?
   b. Why do we use this over setting up our own react application
+  c. Have them download the react chrome devtools extension
 2. Go through the Readme
   a. What does npm start do and how is it different from opening your javascript up on the actual DOM
 3. Pull open the package.json
@@ -28,7 +29,11 @@ React Intro Lesson
 10. Make a componentDidMount method and talk about how it runs after the component mounts/ some problems you may run into with this.
 11. Make a fetch call to the poke api and console.log the results.
 12. Talk about setting the state and how that is done when making a fetch call
-13. 
+13. Use the react devtools to show what is currently in state
+14. It should be an object with key/value pairs with urls as the values
+15. OH NO!!! Our data is trapped in another fetchCall! how dare they do this to us. 
+16. You could make nested fetch calls to get at that information but instead just us the url/pokemon/1 to get bulbasaurs info
+17. Replace Hello World with this.state.data.name
   
 
 
