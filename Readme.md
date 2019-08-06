@@ -34,6 +34,7 @@ React Intro Lesson
 15. OH NO!!! Our data is trapped in another fetchCall! how dare they do this to us. 
 16. You could make nested fetch calls to get at that information but instead just us the url/pokemon/1 to get bulbasaurs info
 17. Replace Hello World with this.state.data.name
+18. Add a console.log under the render to show how it renders first as undefined
   
 
 
