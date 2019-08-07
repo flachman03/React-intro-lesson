@@ -47,7 +47,7 @@ React Intro Lesson
 28. Import Card into CardContainer and pass down props into the Card component
 29. Try to get the image to work and let it break. Take 5 min to see if anyone can figure out a way to get it to work
 30. Explain conditional rendering as a solution to fix problems that can occur when rendering nested data
-31. 
+31. Add some css styling to the card
   
 
 
