@@ -48,6 +48,8 @@ React Intro Lesson
 29. Try to get the image to work and let it break. Take 5 min to see if anyone can figure out a way to get it to work
 30. Explain conditional rendering as a solution to fix problems that can occur when rendering nested data
 31. Add some css styling to the card
-  
+32. Now its time get get out next pokemon! Where are we going to put the function that will fetch us more information?
+33. Does anyone have any ideas on how we might go about fetching another pokemon if this was at pokemon/1?
+34. Work through setting up a function to fetch the next pokemon
 
 
